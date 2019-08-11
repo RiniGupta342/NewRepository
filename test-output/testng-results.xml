@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48488" started-at="2019-08-02T13:50:18Z" finished-at="2019-08-02T13:51:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48488" started-at="2019-08-02T13:50:18Z" finished-at="2019-08-02T13:51:06Z">
+      <class name="com.qa.hubspot.test.LoginPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="SetUp" is-config="true" duration-ms="11171" started-at="2019-08-02T13:50:18Z" finished-at="2019-08-02T13:50:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="TestCheckBox()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="TestCheckBox" duration-ms="1478" started-at="2019-08-02T13:50:29Z" finished-at="2019-08-02T13:50:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCheckBox -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="TearDown" is-config="true" duration-ms="1744" started-at="2019-08-02T13:50:30Z" finished-at="2019-08-02T13:50:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="SetUp" is-config="true" duration-ms="9788" started-at="2019-08-02T13:50:32Z" finished-at="2019-08-02T13:50:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerfiyDoLogin()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="VerfiyDoLogin" duration-ms="1097" started-at="2019-08-02T13:50:42Z" finished-at="2019-08-02T13:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfiyDoLogin -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="TearDown" is-config="true" duration-ms="591" started-at="2019-08-02T13:50:43Z" finished-at="2019-08-02T13:50:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="SetUp" is-config="true" duration-ms="9366" started-at="2019-08-02T13:50:43Z" finished-at="2019-08-02T13:50:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerfiyLoginPageTitleTest()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="VerfiyLoginPageTitleTest" duration-ms="1353" started-at="2019-08-02T13:50:53Z" finished-at="2019-08-02T13:50:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfiyLoginPageTitleTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="TearDown" is-config="true" duration-ms="574" started-at="2019-08-02T13:50:54Z" finished-at="2019-08-02T13:50:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="SetUp" is-config="true" duration-ms="9541" started-at="2019-08-02T13:50:55Z" finished-at="2019-08-02T13:51:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="VerfiySignUpLink()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="VerfiySignUpLink" duration-ms="1174" started-at="2019-08-02T13:51:04Z" finished-at="2019-08-02T13:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerfiySignUpLink -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.hubspot.test.LoginPageTest@68c4039c]" name="TearDown" is-config="true" duration-ms="567" started-at="2019-08-02T13:51:06Z" finished-at="2019-08-02T13:51:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.hubspot.test.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
