@@ -130,11 +130,7 @@ public class ExtentReportListener extends BasePage implements ITestListener {
 		
 	}
 
-	
-	
-	
-	
-	
+system.out.println("changes done");	
 	
 
 }
